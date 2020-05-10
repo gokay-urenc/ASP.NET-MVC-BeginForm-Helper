@@ -1,0 +1,27 @@
+﻿@model Employee
+@{
+    ViewBag.Title = "Index";
+    string[] hataMetni = TempData["mesaj"] as string[];
+}
+
+<h2>Index</h2>
+
+@if (TempData["mesaj"] != null)
+{
+    <div class="@hataMetni[0]">
+        @hataMetni[1];
+    </div>
+}
+
+@Html.DropDownList("calisanlar", new SelectList(ViewBag.Calisanlar, "EmployeeID", "FirstName"))
+
+@using (Html.BeginForm("Add", "Home", FormMethod.Post))
+{
+    // @Html.HiddenFor(x=>x.EmployeeID) // Güncelleme için id gizleme böyle yapılır. Şuan gerek yok.
+    @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control" })
+    @Html.TextBoxFor(x => x.LastName, new { @class = "form-control" })
+    <input type="submit" value="Gönder" class="btn btn-block btn-danger" />
+}
+
+@Html.Resim("/Content/Resim.jpg","Resim Yüklenemedi.","100","100")
+@Html.Raw(CustomHelper.SayfayaGit("Index"))

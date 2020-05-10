@@ -1,0 +1,76 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\MVC_19_Begin_Form_Helper.dll.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\MVC_19_Begin_Form_Helper.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\MVC_19_Begin_Form_Helper.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Antlr3.Runtime.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\EntityFramework.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\EntityFramework.SqlServer.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Newtonsoft.Json.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Helpers.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Mvc.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Optimization.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Razor.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.Razor.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\WebGrease.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\EntityFramework.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\EntityFramework.SqlServer.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Helpers.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Mvc.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Optimization.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Razor.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.Razor.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Antlr3.Runtime.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Newtonsoft.Json.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.csproj.CopyComplete
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\MVC_19_Begin_Form_Helper.dll.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\MVC_19_Begin_Form_Helper.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\MVC_19_Begin_Form_Helper.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Antlr3.Runtime.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\EntityFramework.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\EntityFramework.SqlServer.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.ApplicationInsights.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Newtonsoft.Json.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Helpers.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Mvc.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Optimization.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Razor.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.Razor.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\WebGrease.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\EntityFramework.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\EntityFramework.SqlServer.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Helpers.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Mvc.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Optimization.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.Razor.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\System.Web.WebPages.Razor.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Antlr3.Runtime.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Newtonsoft.Json.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.ApplicationInsights.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.csproj.CopyComplete
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_19_Begin_Form_Helper\MVC_19_Begin_Form_Helper\obj\Debug\MVC_19_Begin_Form_Helper.pdb
